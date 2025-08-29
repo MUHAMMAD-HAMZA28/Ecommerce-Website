@@ -1,12 +1,39 @@
-# React + Vite
+# Ecommerce-Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Technologies
++ ReactJs
++ TailwindCss
 
-Currently, two official plugins are available:
+# Features
++ Responsive design
++ Use React Router Dom for paths
++ Contact us facility
++ Use react props for addind different data on card
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Usage Method
++ Clone repository
++ ```git clone https://github.com/MUHAMMAD-HAMZA28/Ecommerce-Website.git```
++ Then ```cd Ecommerce-Website```
++ ```npm install``` or ```npm i```
++ Then ```npm run dev```
++ The local host appear e.g
++ The website will appear
++ Thank you
 
-## Expanding the ESLint configuration
+# Contact
++ Name : Muhammad Hamza
++ Email : muhammadhamza2869@gmail.com
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+
+
+
+
+
+
+
+
+
